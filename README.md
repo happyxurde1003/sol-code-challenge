@@ -1,4 +1,4 @@
-[ERC20Token(template): 0x99ab900c60c90aef9ff25bc812dabf3616727b16](https://kovan.etherscan.io/address/0x99ab900c60c90aef9ff25bc812dabf3616727b16)
+[ERC20Token: 0x99ab900c60c90aef9ff25bc812dabf3616727b16](https://kovan.etherscan.io/address/0x99ab900c60c90aef9ff25bc812dabf3616727b16)
 
 [ContractA: 0x87bA14c19a57ae292C3011CdB6Be3f6B5D19e38F](https://kovan.etherscan.io/address/0x87bA14c19a57ae292C3011CdB6Be3f6B5D19e38F)
 
