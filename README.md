@@ -18,5 +18,5 @@ truffle test
 ## Step 3: Deploying contract on Kovan test network
 
 ```sh
-truffle migration --network kovan
+truffle migrate --network kovan
 ```
