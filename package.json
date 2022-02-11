@@ -1,0 +1,28 @@
+{
+  "name": "sol-code-challenge",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Solidity Code Challenge",
+  "scripts": {
+    "clean": "rimraf build build-ovm"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/coolerwind/sol-code-challenge#readme",
+  "license": "MIT",
+  "author": "CoolerWind",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolerwind/sol-code-challenge.git"
+  },
+  "dependencies": {
+    "@eth-optimism/solc": "0.7.6-alpha.1",
+    "@openzeppelin/contracts": "^4.4.2",
+    "@truffle/hdwallet-provider": "^1.2.6",
+    "rimraf": "^2.6.3",
+    "truffle": "^5.3.0",
+    "truffle-plugin-verify": "^0.5.21"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
